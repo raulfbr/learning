@@ -1,2 +1,2 @@
-# Skool Vìdeo 01 e 02
+# Skool Video 01 e 02
 
