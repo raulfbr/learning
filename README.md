@@ -6,3 +6,5 @@ https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=4956e54bbd5e4d19b21
 ## Setting up Fabric right
 https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=f439db030567425a88426d7bb8742dd5
 
+## Getting Data into Fabric
+https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=e9fae37bd62f47daa196f7856075e20f
