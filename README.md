@@ -8,3 +8,9 @@ https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=f439db030567425a884
 
 ## Getting Data into Fabric
 https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=e9fae37bd62f47daa196f7856075e20f
+
+- Data Ingestion (ETL/ELT)
+1. Data Flow
+2. Data Pipeline
+3. Notebook
+4. EventStream
