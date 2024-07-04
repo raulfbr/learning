@@ -10,7 +10,7 @@ https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=f439db030567425a884
 https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=e9fae37bd62f47daa196f7856075e20f
 
 ### **Data Ingestion (ETL/ELT)**
-    1. Data Flow
+    1. Data Flow: 300+ connectors, no or low code, ETL, acessing on-premise data, 
     2. Data Pipeline
     3. Notebook
     4. EventStream
@@ -27,7 +27,9 @@ https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=e9fae37bd62f47daa19
       - Warehouse tables
       - KQL table
     
-### **Database mirroing**
-    - Snowflake
-    - CosmoDB
-    - Azure SQL
+### **Database mirroing** (testing)
+    1. Snowflake
+    2. CosmoDB
+    3. Azure SQL
+
+### 
