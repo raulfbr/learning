@@ -17,16 +17,15 @@ https://www.skool.com/microsoft-fabric/classroom/c75b239c?md=e9fae37bd62f47daa19
 
 - Shortcuts
 1. External shortcut
-  1. Amazon S3
-  2. ADLS
-  3. Dataverse
-  4. GoogleStorage
+  - Amazon S3
+  - ADLS
+  - Dataverse
+  - GoogleStorage
 2. Internal shortcut
-  1. Lakehouse table/filtre
-  2. Warehouse tables
-  3. KQL table
+  - Lakehouse table/filtre
+  - Warehouse tables
+  - KQL table
 3. Database mirroing
-  1. Snowflake
-  2. CosmoDB
-  3. Azure SQL
-4.  
+  - Snowflake
+  - CosmoDB
+  - Azure SQL
